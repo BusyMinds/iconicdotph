@@ -3,6 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <?php print $head; ?>
 <title><?php print $head_title; ?></title>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
 <?php print $styles; ?>
 <?php print $scripts; ?>
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
